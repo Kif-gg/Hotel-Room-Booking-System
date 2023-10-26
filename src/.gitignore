@@ -1,0 +1,15 @@
+# IntelliJ IDEA files
+.idea/
+
+# Compiled files
+out/
+target/
+
+# Build-related files
+*.iml
+*.ipr
+*.iws
+*.class
+
+# Dependency directories
+lib/
